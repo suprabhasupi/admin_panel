@@ -42,3 +42,17 @@ span.account_name{
 .paging-nav{
 	float: right;
 }
+i.add_row{
+	    border: 1px solid #807a7a;
+    border-radius: 21px;
+    padding: 6px 8px;
+    background: grey;
+    color: #fbfbfb;
+	
+}
+
+i.table-remove{
+    font-size: 1.5em;
+    position: relative;
+    left: 2em;
+}
