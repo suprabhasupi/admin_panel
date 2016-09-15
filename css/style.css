@@ -1,0 +1,28 @@
+body{
+	margin: 0;
+}
+.main_header{
+	border: 1px solid black;
+	background: gray;
+
+}
+
+
+.tbl {
+	/*width:100%;*/
+}
+.tbl{
+	padding:15px;
+	border:1px;
+	width:100%;
+	text-align:center;
+	border:1px solid black;
+}
+
+ .line{
+	border-bottom:3px solid grey;
+	size:100px;
+	margin-left:15px;
+	margin-right:-10px;
+	  
+}
