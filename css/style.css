@@ -1,28 +1,44 @@
 body{
 	margin: 0;
 }
+a, a:hover, a:focus{
+	text-decoration: none;
+	
+}
+button{
+	outline: none;
+}
+a{
+	color: black;
+}
+
+
 .main_header{
 	border: 1px solid black;
 	background: gray;
-
+	padding: 9px;
 }
 
-
-.tbl {
-	/*width:100%;*/
+img.avatar{
+	width: 32%;
 }
-.tbl{
-	padding:15px;
-	border:1px;
-	width:100%;
-	text-align:center;
-	border:1px solid black;
-}
-
  .line{
 	border-bottom:3px solid grey;
 	size:100px;
 	margin-left:15px;
 	margin-right:-10px;
 	  
+}
+
+img.logo_style{
+	width: 17%;
+}
+span.account_name{
+	margin-right: -5em;
+}
+.paging-nav a{
+	padding: 0 .5em;
+}
+.paging-nav{
+	float: right;
 }
